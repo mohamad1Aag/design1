@@ -475,17 +475,7 @@ position: relative;
                         opacity: 0.3;            
 
                }
-        /* .imgnovidio{
-            width: 567.6px;
-            height: 316.6px;
-            margin-left: 100px;
-            position: relative;
-            background: linear-gradient(-280deg, 
-            #2f91b0 0.00%, 
-            #37619d 100.00%);
-                        opacity: 0.6;            
-
-               } */
+      
         .imgnovidio::before {
             content: "wait for new .....";
             position: absolute;
@@ -625,7 +615,7 @@ position: relative;
         .margena2::before{
             width: 168.1px;
             height: 57.7px;
-            content: "Notre equipe";
+            content: "";
             font-family: "Cairo";
             font-size: 24px;
             font-weight: bold;
@@ -661,7 +651,7 @@ position: relative;
         position: relative;
         }
         .margena3::before{
-            content: "Notre communauté whatsapp";
+            content: "";
             width: 170px;
             height: 38px;
                 font-family: "Cairo";
