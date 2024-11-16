@@ -189,7 +189,7 @@ body{
     .margena1{
         margin-top: 8px;
         position: relative;
-        background-image: url("/image/Rectangle\ copy\ 2.png");
+        background-image: url("image/Rectangle\ copy\ 2.png");
         background-repeat: no-repeat;
         background-size: 170px;
         width: 170px;
@@ -285,7 +285,7 @@ body{
    
     .BigMan::before{
         content: "";
-        background-image:url("/image/Layer\ 8.png") ;
+        background-image:url("image/Layer\ 8.png") ;
         background-size: cover;
         background-repeat: no-repeat;
         background-size:80px;
@@ -299,7 +299,7 @@ body{
      
     .SmallMan::before{
         content: "";
-        background-image:url("/image/Layer\ 9.png") ;
+        background-image:url("image/Layer\ 9.png") ;
         background-size: cover;
         background-repeat: no-repeat;
         background-size: 40px;
@@ -429,7 +429,7 @@ input:active,
 .margena1{
     margin-top: 8px;
     position: relative;
-    background-image: url("/image/Rectangle\ copy\ 2.png");
+    background-image: url("image/Rectangle\ copy\ 2.png");
     background-repeat: no-repeat;
     background-size: 200px;
     width: 200px;
@@ -528,7 +528,7 @@ position: relative;
 
 .BigMan::before{
     content: "";
-    background-image:url("/image/Layer\ 8.png") ;
+    background-image:url("image/Layer\ 8.png") ;
     background-size: cover;
     background-repeat: no-repeat;
     background-size:80px;
@@ -541,7 +541,7 @@ position: relative;
  
 .SmallMan::before{
     content: "";
-    background-image:url("/image/Layer\ 9.png") ;
+    background-image:url("image/Layer\ 9.png") ;
     background-size: cover;
     background-repeat: no-repeat;
     background-size: 40px;
@@ -676,7 +676,7 @@ position: relative;
         
         .logo{
             margin-top: 82px;
-            background-image: url("/image/Groupe\ 4\ \(1\).png");
+            background-image: url("image/Groupe\ 4\ \(1\).png");
             width: 434px;
             height: 88px;
             }
@@ -729,7 +729,7 @@ position: relative;
         .margena1{
             margin-top: 16px;
             position: relative;
-            background-image: url("/image/Rectangle\ copy\ 2.png");
+            background-image: url("image/Rectangle\ copy\ 2.png");
             background-repeat: no-repeat;
             width: 245px;
             height: 76px ;        
@@ -771,7 +771,7 @@ position: relative;
         }
         .margena2::after{
             content: "";
-            background-image: url("/image/telegram.png");
+            background-image: url("image/telegram.png");
             background-repeat: no-repeat;
             background-size: cover;
             width: 36px;
@@ -810,7 +810,7 @@ position: relative;
             content: "";
             width: 35px;
             height: 34px;
-            background-image: url("/image/whatsapp.png");
+            background-image: url("image/whatsapp.png");
             position: absolute;
           
             top: 45%;
@@ -845,7 +845,7 @@ position: relative;
 
         .vidou .BigMan::after{
             content: "";
-            background-image:url("/image/Layer\ 8\ copy\ \(2\).png") ;
+            background-image:url("image/Layer\ 8\ copy\ \(2\).png") ;
             background-size: cover;
             background-repeat: no-repeat;
             position: absolute;
@@ -856,7 +856,7 @@ position: relative;
         }
         .vidou .BigMan::before{
             content: "";
-            background-image:url("/image/Layer\ 6.png") ;
+            background-image:url("image/Layer\ 6.png") ;
             background-size: cover;
             background-repeat: no-repeat;
             position: absolute;
@@ -880,7 +880,7 @@ position: relative;
          
         .vidou .SmallMan::before{
             content: "";
-            background-image:url("/image/Layer\ 9\ copy\ \(2\).png") ;
+            background-image:url("image/Layer\ 9\ copy\ \(2\).png") ;
             background-size: cover;
             background-repeat: no-repeat;
             position: absolute;
@@ -891,7 +891,7 @@ position: relative;
         }
         .vidou .SmallMan::after{
             content: "";
-            background-image:url("/image/Layer\ 7.png") ;
+            background-image:url("image/Layer\ 7.png") ;
             background-size: cover;
             background-repeat: no-repeat;
             position: absolute;
