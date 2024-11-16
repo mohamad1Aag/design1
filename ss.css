@@ -209,7 +209,7 @@ body{
     }
     .BigMan::before{
         content: "";
-        background-image:url("image/Layer\ 8.png") ;
+        background-image:url("/image/Layer\ 8.png") ;
         background-size: cover;
         background-repeat: no-repeat;
         background-size:80px;
@@ -223,7 +223,7 @@ body{
      
     .SmallMan::before{
         content: "";
-        background-image:url("image/Layer\ 9.png") ;
+        background-image:url("/image/Layer\ 9.png") ;
         background-size: cover;
         background-repeat: no-repeat;
         background-size: 40px;
@@ -384,7 +384,7 @@ position: relative;
     content: "";
     width: 35px;
     height: 34px;
-    background-image: url("image/whatsapp.png");
+    background-image: url("/image/whatsapp.png");
     background-size: 30px;
     background-repeat: no-repeat;
     position: absolute;
@@ -400,7 +400,7 @@ position: relative;
 
 .BigMan::before{
     content: "";
-    background-image:url("image/Layer\ 8.png") ;
+    background-image:url("/image/Layer\ 8.png") ;
     background-size: cover;
     background-repeat: no-repeat;
     background-size:80px;
@@ -413,7 +413,7 @@ position: relative;
  
 .SmallMan::before{
     content: "";
-    background-image:url("image/Layer\ 9.png") ;
+    background-image:url("/image/Layer\ 9.png") ;
     background-size: cover;
     background-repeat: no-repeat;
     background-size: 40px;
@@ -538,7 +538,7 @@ position: relative;
         
         .logo{
             margin-top: 82px;
-            background-image: url("image/Groupe\ 4\ \(1\).png");
+            background-image: url("/image/Groupe\ 4\ \(1\).png");
             width: 434px;
             height: 88px;
             }
@@ -633,7 +633,7 @@ position: relative;
         }
         .margena2::after{
             content: "";
-            background-image: url("image/telegram.png");
+            background-image: url("/image/telegram.png");
             background-repeat: no-repeat;
             background-size: cover;
             width: 36px;
@@ -672,7 +672,7 @@ position: relative;
             content: "";
             width: 35px;
             height: 34px;
-            background-image: url("image/whatsapp.png");
+            background-image: url("/image/whatsapp.png");
             position: absolute;
           
             top: 45%;
@@ -707,7 +707,7 @@ position: relative;
 
         .vidou .BigMan::after{
             content: "";
-            background-image:url("image/Layer\ 8\ copy\ \(2\).png") ;
+            background-image:url("/image/Layer\ 8\ copy\ \(2\).png") ;
             background-size: cover;
             background-repeat: no-repeat;
             position: absolute;
@@ -718,7 +718,7 @@ position: relative;
         }
         .vidou .BigMan::before{
             content: "";
-            background-image:url("image/Layer\ 6.png") ;
+            background-image:url("/image/Layer\ 6.png") ;
             background-size: cover;
             background-repeat: no-repeat;
             position: absolute;
@@ -742,7 +742,7 @@ position: relative;
          
         .vidou .SmallMan::before{
             content: "";
-            background-image:url("image/Layer\ 9\ copy\ \(2\).png") ;
+            background-image:url("/image/Layer\ 9\ copy\ \(2\).png") ;
             background-size: cover;
             background-repeat: no-repeat;
             position: absolute;
@@ -753,7 +753,7 @@ position: relative;
         }
         .vidou .SmallMan::after{
             content: "";
-            background-image:url("image/Layer\ 7.png") ;
+            background-image:url("/image/Layer\ 7.png") ;
             background-size: cover;
             background-repeat: no-repeat;
             position: absolute;
